@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+neuralforecast
+optuna
+statsmodels
+pmdarima
+matplotlib
+openpyxl
