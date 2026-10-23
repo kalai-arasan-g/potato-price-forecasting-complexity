@@ -33,7 +33,7 @@ potato_pipeline/
 ```
 
 ## Run order
-1. Drop your Agmarknet Excel export(s) at `data/agra_potato_raw.xlsx` and
+1. Drop Agmarknet Excel export(s) at `data/agra_potato_raw.xlsx` and
    `data/farrukhabad_potato_raw.xlsx` (Date, Price columns).
 2. Run notebooks **01 -> 07** in order. Each writes artifacts that the next
    notebook consumes -- no notebook should be run out of order on a first pass.
